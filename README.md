@@ -35,23 +35,23 @@ The project achieved **74% pass rate** for unit test cases covering UI, function
 
 <div style="display: flex; justify-content: space-around; gap: 20px;">
     <div>
-        <b>Home</b>
+        <b>My Cart UI</b>
         <img src="assets/Screenshot 2024-12-03 205032.png" alt="Home Screen" width="200"/>
     </div>
     <div>
-        <b>Shorts</b>
+        <b>All Categories UI</b>
         <img src="assets/Screenshot 2024-12-03 211444.png" alt="Recipe Detail" width="200"/>
     </div>
     <div>
-        <b>Search(Ytb API)</b>
+        <b>Review Page UI</b>
         <img src="assets/Screenshot 2024-12-03 212608.png" alt="Search Screen" width="200"/>
     </div>
         <div>
-        <b>Subscription</b>
+        <b>Sharing Page UI</b>
         <img src="assets/Screenshot 2024-12-03 213015.png" alt="Search Screen" width="200"/>
     </div>
         <div>
-        <b>Library</b>
+        <b>Set Up UI</b>
         <img src="assets/Screenshot 2024-12-04 173202.png" alt="Search Screen" width="200"/>
     </div>
 </div>
